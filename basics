@@ -1,0 +1,14 @@
+# Declaring a Variable
+
+name = "Marsha" # String
+
+is_true = true  # Bool
+
+num = 8 # Integer
+
+
+# Output data :
+
+print "Welcome to Ruby"
+
+puts "Programming Ruby is fun."
